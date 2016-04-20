@@ -17,7 +17,7 @@ FizzBuzz<- function(n){
 
 #Inside the FizzBuzz function first define the imput as a sequence using seq() command and store the sequence as "out". To print out each element inside the sequence "out" according to different conditions using subset([ ]). 
 
-
+###
 
 
 ```
